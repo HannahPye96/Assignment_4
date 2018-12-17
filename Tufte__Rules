@@ -1,8 +1,8 @@
 1. Remove Chartjunk: 
-  Romoved x and y axis, moved titles closer to graph to make image more compact, used natural colour palatte with no patterns or borders.
+  Romoved x axis, moved titles closer to graph to make image more compact, used natural colour palatte with no patterns or borders.
 
 2. Utulize Data-ink:
-  Removed x and y axis, made bars with only three 'Number of 5s' values more narrow compaired to ones with four, removed all dog breeds     that did not score at least a 3 on the 'Number of 5s' axis.  
+  Removed x axis, made bars with only three 'Number of 5s' values more narrow compaired to ones with four, removed all dog breeds     that did not score at least a 3 on the 'Number of 5s' axis.  
 
 3. Use Labels: 
   Named each dog breed that had at least 3/5 number 5's on the graph under thier bar.
